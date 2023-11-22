@@ -1,0 +1,11 @@
+Model Information:
+* title:	NEST DINOSAUR Maiasaura NHM LONDON 2020
+* source:	https://sketchfab.com/3d-models/nest-dinosaur-maiasaura-nhm-london-2020-c3e820ea21e141668cfe39b6196ce1b0
+* author:	Arqueomodel3D (https://sketchfab.com/juanbrualla)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "NEST DINOSAUR Maiasaura NHM LONDON 2020" (https://sketchfab.com/3d-models/nest-dinosaur-maiasaura-nhm-london-2020-c3e820ea21e141668cfe39b6196ce1b0) by Arqueomodel3D (https://sketchfab.com/juanbrualla) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

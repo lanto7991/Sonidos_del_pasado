@@ -1,0 +1,11 @@
+Model Information:
+* title:	Maiasaura With Rig
+* source:	https://sketchfab.com/3d-models/maiasaura-with-rig-3da9f211ae304bd0afd1d15a290eabbd
+* author:	Dino Dan (https://sketchfab.com/DinoDanDragonMan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Maiasaura With Rig" (https://sketchfab.com/3d-models/maiasaura-with-rig-3da9f211ae304bd0afd1d15a290eabbd) by Dino Dan (https://sketchfab.com/DinoDanDragonMan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

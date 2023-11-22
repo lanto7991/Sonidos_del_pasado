@@ -1,0 +1,11 @@
+Model Information:
+* title:	Austrorraptor refd
+* source:	https://sketchfab.com/3d-models/austrorraptor-refd-9f17abf0219a481c91f85de230f1a77f
+* author:	lazaronogueira832 (https://sketchfab.com/lazaronogueira832)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Austrorraptor refd" (https://sketchfab.com/3d-models/austrorraptor-refd-9f17abf0219a481c91f85de230f1a77f) by lazaronogueira832 (https://sketchfab.com/lazaronogueira832) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
