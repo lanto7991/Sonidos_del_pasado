@@ -1,0 +1,11 @@
+Model Information:
+* title:	Raptor Photogrammetry test
+* source:	https://sketchfab.com/3d-models/raptor-photogrammetry-test-f9937eb0a0b44eaf95068e082e00a099
+* author:	Nick G. Gizelis (https://sketchfab.com/aumakua)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Raptor Photogrammetry test" (https://sketchfab.com/3d-models/raptor-photogrammetry-test-f9937eb0a0b44eaf95068e082e00a099) by Nick G. Gizelis (https://sketchfab.com/aumakua) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
