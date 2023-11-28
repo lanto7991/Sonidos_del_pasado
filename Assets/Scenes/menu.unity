@@ -600,8 +600,8 @@ MonoBehaviour:
   speed: 15
   vRotation: 5
   objPosition: {x: 0, y: 0, z: 0}
-  minRandom: {x: -777, y: 0, z: 1079.9}
-  maxRandom: {x: -321.5, y: 0, z: 1380.9}
+  minRandom: {x: -777, y: 0, z: 967.6}
+  maxRandom: {x: -321.5, y: 0, z: 1237}
   distanceObj: 1.14
 --- !u!1 &314944968
 GameObject:
@@ -786,27 +786,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6262297525994467728, guid: b19d09e9f8dae3b4a9359e332da659b2, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.12039421
+      value: 0.36349875
       objectReference: {fileID: 0}
     - target: {fileID: 6262297525994467728, guid: b19d09e9f8dae3b4a9359e332da659b2, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.09261093
+      value: 0.27961442
       objectReference: {fileID: 0}
     - target: {fileID: 6262297525994467728, guid: b19d09e9f8dae3b4a9359e332da659b2, type: 3}
       propertyPath: m_LocalScale.z
-      value: -0.11593417
+      value: -0.3500328
       objectReference: {fileID: 0}
     - target: {fileID: 6262297525994467728, guid: b19d09e9f8dae3b4a9359e332da659b2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -637
+      value: -636
       objectReference: {fileID: 0}
     - target: {fileID: 6262297525994467728, guid: b19d09e9f8dae3b4a9359e332da659b2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -9.99987
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6262297525994467728, guid: b19d09e9f8dae3b4a9359e332da659b2, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2150
+      value: -2196
       objectReference: {fileID: 0}
     - target: {fileID: 6262297525994467728, guid: b19d09e9f8dae3b4a9359e332da659b2, type: 3}
       propertyPath: m_LocalRotation.w
@@ -870,6 +870,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1351954755559114320, guid: b19d09e9f8dae3b4a9359e332da659b2, type: 3}
       insertIndex: -1
       addedObject: {fileID: 959779942}
+    - targetCorrespondingSourceObject: {fileID: 1351954755559114320, guid: b19d09e9f8dae3b4a9359e332da659b2, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 959779946}
   m_SourcePrefab: {fileID: 100100000, guid: b19d09e9f8dae3b4a9359e332da659b2, type: 3}
 --- !u!1 &384274256
 GameObject:
@@ -1779,8 +1782,8 @@ MonoBehaviour:
   speed: 15
   vRotation: 5
   objPosition: {x: 0, y: 0, z: 0}
-  minRandom: {x: -777, y: 0, z: 892.4}
-  maxRandom: {x: 59.8, y: 0, z: 1380.9}
+  minRandom: {x: -777, y: 0, z: 805.1}
+  maxRandom: {x: 59.8, y: 0, z: 1315}
   distanceObj: 1.14
 --- !u!114 &904448640
 MonoBehaviour:
@@ -2014,19 +2017,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6262297525994467728, guid: b19d09e9f8dae3b4a9359e332da659b2, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.12897024
+      value: 0.3995261
       objectReference: {fileID: 0}
     - target: {fileID: 6262297525994467728, guid: b19d09e9f8dae3b4a9359e332da659b2, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.09920788
+      value: 0.3073278
       objectReference: {fileID: 0}
     - target: {fileID: 6262297525994467728, guid: b19d09e9f8dae3b4a9359e332da659b2, type: 3}
       propertyPath: m_LocalScale.z
-      value: -0.124192506
+      value: -0.38472557
       objectReference: {fileID: 0}
     - target: {fileID: 6262297525994467728, guid: b19d09e9f8dae3b4a9359e332da659b2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -885
+      value: -978.39
       objectReference: {fileID: 0}
     - target: {fileID: 6262297525994467728, guid: b19d09e9f8dae3b4a9359e332da659b2, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2098,6 +2101,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1351954755559114320, guid: b19d09e9f8dae3b4a9359e332da659b2, type: 3}
       insertIndex: -1
       addedObject: {fileID: 924838699}
+    - targetCorrespondingSourceObject: {fileID: 1351954755559114320, guid: b19d09e9f8dae3b4a9359e332da659b2, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 924838703}
   m_SourcePrefab: {fileID: 100100000, guid: b19d09e9f8dae3b4a9359e332da659b2, type: 3}
 --- !u!4 &924838697 stripped
 Transform:
@@ -2243,7 +2249,7 @@ MonoBehaviour:
   vRotation: 5
   objPosition: {x: 0, y: 0, z: 0}
   minRandom: {x: 98.5, y: 0, z: 18.96}
-  maxRandom: {x: 575.4, y: 0, z: -454.4}
+  maxRandom: {x: 575.4, y: 0, z: -278.9}
   distanceObj: 0
 --- !u!114 &924838702
 MonoBehaviour:
@@ -2287,6 +2293,27 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!135 &924838703
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 924838698}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 420.24
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &958660840
 GameObject:
   m_ObjectHideFlags: 0
@@ -2444,7 +2471,7 @@ SphereCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Radius: 331.9
+  m_Radius: 420.24
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!82 &959779943
 AudioSource:
@@ -2467,7 +2494,7 @@ AudioSource:
   Priority: 128
   DopplerLevel: 0
   MinDistance: 1
-  MaxDistance: 83.903076
+  MaxDistance: 147.854
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 1
@@ -2559,9 +2586,51 @@ MonoBehaviour:
   vRotation: 5
   objPosition: {x: 0, y: 0, z: 0}
   minRandom: {x: 98.5, y: 0, z: 18.96}
-  maxRandom: {x: 575.4, y: 0, z: -454.4}
+  maxRandom: {x: 575.4, y: 0, z: -283.4}
   distanceObj: 0
 --- !u!114 &959779945
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 959779940}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bcffa353987acb4d9fc8d3d7e1b7689, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eventoEntrar:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 2099375021}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+  eventoSalir:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 2099375021}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &959779946
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3013,8 +3082,8 @@ MonoBehaviour:
   speed: 15
   vRotation: 5
   objPosition: {x: 0, y: 0, z: 0}
-  minRandom: {x: -667.2, y: 0, z: -2.8}
-  maxRandom: {x: 111.98, y: 0, z: -428}
+  minRandom: {x: -667.2, y: 0, z: 61.01}
+  maxRandom: {x: -59.3, y: 0, z: -281.6}
   distanceObj: 1.14
 --- !u!114 &1161469950
 MonoBehaviour:
@@ -3233,7 +3302,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5642140121612362653, guid: 4ca833f2ad8918f47a877ffd51827787, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -864.38
+      value: -1024
       objectReference: {fileID: 0}
     - target: {fileID: 5642140121612362653, guid: 4ca833f2ad8918f47a877ffd51827787, type: 3}
       propertyPath: m_LocalRotation.w
@@ -3422,8 +3491,8 @@ MonoBehaviour:
   speed: 15
   vRotation: 5
   objPosition: {x: 0, y: 0, z: 0}
-  minRandom: {x: 225.84, y: 0, z: 1069.07}
-  maxRandom: {x: 847.51, y: 0, z: 1346.46}
+  minRandom: {x: 212.8, y: 0, z: 758.1}
+  maxRandom: {x: 890.7, y: 0, z: 1199}
   distanceObj: 0
 --- !u!114 &1218071988
 MonoBehaviour:
@@ -3705,7 +3774,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -484, y: -60}
+  m_AnchoredPosition: {x: -510, y: -60}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1298027397
@@ -4201,7 +4270,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 449, y: -60}
+  m_AnchoredPosition: {x: 524, y: -60}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1643064808
